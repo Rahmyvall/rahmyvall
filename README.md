@@ -7,16 +7,15 @@
 ---
 
 ## 🚀 About Me
-Hi! Saya **Rahma**, seorang **Fullstack Developer & Programmer** yang membantu mengubah ide menjadi aplikasi web yang cepat, responsive, dan siap digunakan.  
+Hi! I'm **Rahma**, a **Fullstack Developer & Programmer** who helps turn ideas into fast, responsive, and ready-to-use web applications.
 
-Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tetapi juga memiliki performa tinggi dan mudah dikembangkan.
+I focus on creating digital solutions that not only look good, but are also highly performant and easy to develop.
 
-💡 **Yang bisa saya bantu:**
-- 🚀 Membangun web app modern dengan **React & Next.js**
-- 🔧 Mengembangkan backend yang stabil menggunakan **Laravel**
-- ⚡ Optimasi performa & clean code agar mudah maintenance
-- 🎯 Mengubah kebutuhan bisnis menjadi solusi digital yang efektif
-
+💡 **What I can help you with:**
+- 🚀 Building modern web applications with **React & Next.js**
+- 🔧 Building a stable backend using **Laravel**
+- ⚡ Performance optimization & clean code for easy maintenance
+- 🎯 Transforming business needs into effective digital solutions
 ---
 
 ## 🤖 Languages & Technologies
