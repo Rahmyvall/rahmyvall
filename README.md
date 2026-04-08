@@ -126,7 +126,8 @@ Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tet
 <br/>
 ---
 <br/>
-## 🌟 Highlight
+---
+🌟 Highlight
 <p align="center">
   💬 <i>"Code is not just code, it's a solutio."</i>
 </p>
