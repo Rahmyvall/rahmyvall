@@ -3,11 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=435&lines=Fullstack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 
 ---
-
 ## 🚀 About Me
-
 Hi! Saya **Rahma**, seorang **Fullstack Developer & Programmer** yang membantu mengubah ide menjadi aplikasi web yang cepat, responsive, dan siap digunakan.
-
 Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tetapi juga memiliki performa tinggi dan mudah dikembangkan.
 
 💡 **Yang bisa saya bantu:**
@@ -18,11 +15,8 @@ Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tet
 - 🎯 Mengubah kebutuhan bisnis menjadi solusi digital yang efektif
 
 Saya selalu berusaha memberikan hasil terbaik dengan komunikasi yang jelas dan pengerjaan yang tepat waktu.
-
 ---
-
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -129,18 +123,6 @@ Saya selalu berusaha memberikan hasil terbaik dengan komunikasi yang jelas dan p
 />
 
 <br/>
-
----
-
-## 🎯 Career Goal
-
-🚀 Saat ini saya terbuka untuk:
-
-- Internship
-- Junior Frontend / Fullstack Developer
-
-Saya siap belajar cepat dan berkontribusi dalam tim 💪
-
 ---
 
 ⭐ _“Code is not just code, it's a solution.”_
