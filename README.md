@@ -124,6 +124,13 @@ Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tet
 />
 
 <br/>
+## 💭 Philosophy
+
+> "Build fast, learn faster. Every project is a lesson, every bug is wisdom."
+
+I'm a silent builder. While others announce what they'll build, I'm already shipping. No hype, no grand launches. Just real tools solving real problems. I learn by shipping, not studying. Every project starts as my own problem, then becomes your solution. As a self-taught engineer, code is my teacher and shipping is my curriculum. The work speaks louder than any pitch deck.
+
+---
 
 <p align="center">
   💬 <i>"Code is not just code, it's a solutio."</i>
