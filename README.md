@@ -16,6 +16,12 @@ I focus on creating digital solutions that not only look good, but are also high
 - 🔧 Building a stable backend using **Laravel**
 - ⚡ Performance optimization & clean code for easy maintenance
 - 🎯 Transforming business needs into effective digital solutions
+- 🤖 AI-first developer, building tools that save hours of manual work
+- 🚀 50+ projects shipped, solving real problems for developers worldwide
+- 🔏 Security researcher, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
+- 🎯 2026 mission, shipping 1 AI-focused project every 2 weeks
+- 🤫 Philosophy, Silent builder who learns by shipping, turning problems into solutions.
+- 🦾 Hobby, building robots, electronics, and producing music
 ---
 
 ## 🤖 Languages & Technologies
