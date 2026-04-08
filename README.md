@@ -15,7 +15,6 @@ Saya berfokus pada pembuatan solusi digital yang tidak hanya terlihat bagus, tet
 - ⚡ Optimasi performa & clean code agar mudah maintenance
 - 🎯 Mengubah kebutuhan bisnis menjadi solusi digital yang efektif
 
-Saya selalu berusaha memberikan hasil terbaik dengan komunikasi yang jelas dan pengerjaan yang tepat waktu.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -126,5 +125,9 @@ Saya selalu berusaha memberikan hasil terbaik dengan komunikasi yang jelas dan p
 
 <br/>
 ---
+## 🌟 Highlight
 
-⭐ _“Code is not just code, it's a solution.”_
+<p align="center">
+  💬 <i>"Code is not just code, it's a solutio."</i>
+</p>
+
