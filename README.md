@@ -132,14 +132,6 @@ Saya selalu berusaha memberikan hasil terbaik dengan komunikasi yang jelas dan p
 
 ---
 
-## 🌐 Let's Connect
-
-📫 Email: Rahmyvall@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/unnikke/
-🌍 Portfolio: https://drive.google.com/drive/folders/1WHsMH6fbSVxW7A5LpwCTnq_zkGtjE6LQ?usp=drive_link
-
----
-
 ## 🎯 Career Goal
 
 🚀 Saat ini saya terbuka untuk:
