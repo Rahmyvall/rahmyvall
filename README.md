@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm **Rahmawati**, a **Fullstack Developer & AI Automation Engineer** with a background in **Informatics Engineering**.
+I'm **Rahm**, a **Fullstack Developer & AI Automation Engineer** with a background in **Informatics Engineering**.
 
 I build **modern web applications, AI-powered solutions, and business automation workflows** by combining software engineering, system integration, automation, and artificial intelligence.
 
