@@ -1,175 +1,165 @@
-# 👩🏻‍💻 Rahm — Full-Stack Developer (Mid-Level) | Laravel & Vue.js Specialist | Backend Engineer | AI Automation Engineer
+# 👨‍💻 Rahm — Full-Stack Developer (Mid-Level) | Laravel & Vue.js Specialist | Backend Engineer
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Full-Stack+Developer+(Mid-Level);Laravel+%26+Vue.js+Specialist;Backend+Engineer;AI+Automation+Engineer;n8n+Expert;Claude+Code+Developer;Laravel+%7C+Vue.js+%7C+React+%7C+Next.js;Building+AI-Powered+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Full-Stack+Developer+(Mid-Level);Laravel+%26+Vue.js+Specialist;Backend+Engineer;Building+Scalable+Business+Applications;REST+API+%7C+Database+%7C+System+Integration" />
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Full-Stack-Developer%20(Mid--Level)-blue?style=flat" />
-<img src="https://img.shields.io/badge/Laravel%20%26%20Vue.js-Specialist-red?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-Engineer-green?style=flat" />
-<img src="https://img.shields.io/badge/AI-Automation%20Engineer-purple?style=flat" />
-<img src="https://img.shields.io/badge/n8n-Expert-orange?style=flat&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-Code-black?style=flat" />
-<img src="https://img.shields.io/badge/Vue.js-Frontend-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20%7C%20Next.js-Frontend-black?style=flat&logo=react&logoColor=61DAFB" />
-</p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Rahm**, a **Full-Stack Developer (Mid-Level)**, **Laravel & Vue.js Specialist**, and **Backend Engineer** with additional expertise as an **AI Automation Engineer**. I have a background in **Informatics Engineering**.
+I'm **Rahm**, a **Full-Stack Developer (Mid-Level)** specializing in **Laravel, Vue.js, and Backend Engineering**.
 
-I build **modern web applications, AI-powered solutions, and business automation workflows** by combining software engineering, system integration, automation, and artificial intelligence.
+I focus on building scalable, secure, and maintainable web applications for business needs, including internal systems, dashboards, transaction platforms, and API-based applications.
 
-My focus is not only on writing code, but on transforming **business requirements and repetitive processes into reliable, scalable, and automated digital solutions**.
+My expertise combines:
 
-### 🚀 Core Expertise
+- Backend engineering with Laravel
+- Modern frontend development with Vue.js
+- Database architecture and optimization
+- REST API development
+- Business process implementation
+- System integration
 
-* 💻 **Full-Stack Development** — Building modern web applications with Laravel, Vue.js, React, Next.js, JavaScript, and TypeScript
-* 🟥 **Laravel & Vue.js Specialist** — Deep expertise in Laravel backend development and Vue.js frontend interfaces
-* ⚙️ **Backend Engineering** — Designing robust APIs, business logic, authentication, and database systems
-* 🤖 **AI Automation Engineering** — Designing AI-powered workflows and automating repetitive business processes
-* ⚙️ **n8n Automation** — Building workflow automation, API integrations, webhooks, data processing, and AI workflows
-* 🧠 **Claude Code** — Using AI-assisted development for coding, debugging, refactoring, testing, and productivity
-* 🔌 **API Integration** — Connecting applications, third-party services, databases, and AI platforms through REST APIs and webhooks
-* 📊 **Dashboard & Business Applications** — Developing monitoring, reporting, transaction, customer, and operational systems
-* 🗄️ **Database Engineering** — Designing structured databases and data-driven applications
-* 🔐 **Application Security** — Applying secure coding practices and security-focused development principles
+
+My goal is to transform **business requirements into reliable digital solutions** through clean architecture, efficient development practices, and maintainable software.
+
 
 ---
 
-## 💼 What I Do
+# 🚀 Core Expertise
 
-### 🌐 Full-Stack Web Development
+- 💻 **Full-Stack Development**  
+  Building end-to-end web applications using Laravel, Vue.js, PHP, JavaScript, and TypeScript
 
-Developing end-to-end web applications, from responsive frontend interfaces to backend services, APIs, databases, authentication, and business logic.
+- 🟥 **Laravel & Vue.js Specialist**  
+  Developing scalable applications with Laravel backend and Vue.js frontend integration
 
-**Technologies:**
+- ⚙️ **Backend Engineering**  
+  Designing APIs, business logic, authentication systems, database structures, and backend services
 
-`Laravel` · `PHP` · `Vue.js` · `React` · `Next.js` · `JavaScript` · `TypeScript`
+- 🔌 **REST API Development**  
+  Creating secure and structured APIs for frontend applications and third-party integrations
 
----
+- 🗄️ **Database Engineering**  
+  Designing relational databases, optimizing queries, and managing data-driven applications
 
-### 🟥 Laravel & Vue.js Specialist
+- 📊 **Business Application Development**  
+  Building dashboards, management systems, reporting tools, and operational applications
 
-Specializing in building scalable applications using **Laravel** for the backend and **Vue.js** for the frontend.
+- 🔐 **Application Security**  
+  Implementing authentication, authorization, validation, and secure coding practices
 
-* Clean architecture & modular design
-* RESTful API development
-* Authentication & authorization (Sanctum / Passport)
-* Eloquent ORM & advanced queries
-* Vue.js component-based UI
-* State management & reactive interfaces
-* Seamless Laravel + Vue.js integration
-
----
-
-### ⚙️ Backend Engineering
-
-Focusing on solid backend systems:
-
-* API design & development
-* Business logic implementation
-* Database design & optimization
-* Authentication & role-based access
-* Queue jobs & background processing
-* Caching strategies
-* Security best practices
 
 ---
 
-### 🤖 AI Automation Engineering
+# 💼 What I Build
 
-Designing intelligent automation systems that combine **AI, APIs, business logic, and workflow automation** to reduce repetitive manual processes.
 
-Typical use cases include:
+## 🌐 Full-Stack Web Applications
 
-* AI-powered business workflows
-* Automated data processing
-* Intelligent notifications
-* Document and information processing
-* AI assistants
-* Automated reporting
-* Lead and customer workflows
-* Internal business automation
-* AI-powered integrations
+Developing complete web solutions from frontend interfaces to backend systems.
+
+Technology:
+
+`Laravel` · `Vue.js` · `PHP` · `JavaScript` · `TypeScript`
+
 
 ---
 
-## ⚙️ n8n Workflow Automation
+## 🟥 Laravel Backend Engineering
 
-Building and integrating **n8n workflows** to connect applications, APIs, databases, AI models, and business processes.
+Experienced in:
 
-My automation workflow typically involves:
+- MVC Architecture
+- REST API Development
+- Eloquent ORM
+- Database Relationship Design
+- Authentication & Authorization
+- Middleware
+- Validation
+- Business Logic
+- Queue Processing
+- Application Optimization
 
-```text
-Trigger
-↓
-Data Collection
-↓
-Data Processing
-↓
-Business Logic
-↓
-AI Processing
-↓
-API / Service Integration
-↓
-Database / Output
-↓
-Notification / Action
-```
 
 ---
 
-## 🧠 Claude Code & AI-Assisted Development
+## 🎨 Vue.js Frontend Development
 
-Using **Claude Code** as part of the development workflow to improve productivity across:
+Building modern frontend applications with:
 
-- Code generation
-- Code refactoring
-- Debugging
-- Testing
-- Documentation
-- Codebase analysis
-- Feature implementation
-- Development automation
-- Software architecture exploration
+- Component-based architecture
+- Reusable UI components
+- API integration
+- State management
+- Responsive interface
+- User experience optimization
 
-AI is used as a development accelerator while maintaining **engineering judgment, code quality, security, and maintainability**.
 
 ---
 
-## 📊 Dashboard & Business Applications
+## 🗄️ Database & System Design
 
-Building business-oriented applications and dashboards for:
+Working with:
 
-- 📈 Productivity monitoring
-- 💰 Transaction management
-- 👥 Customer management
-- 🏨 Reservation management
-- 📦 Inventory management
-- 📊 Business reporting
-- ⚙️ Operational monitoring
-- 📋 Data management
-- 📌 Performance analytics
+- MySQL
+- Database modeling
+- Query optimization
+- Migration management
+- CRUD systems
+- Data integrity
+
 
 ---
 
 ## 🔌 API & System Integration
 
-Developing integrations between different systems using:
+Developing integrations using:
 
 - REST API
-- Webhooks
 - JSON
+- Webhooks
 - Authentication
-- Database integration
 - Third-party services
-- AI services
-- Automation platforms
+- External API integration
+
+
+---
+
+# 🏢 Business Solutions
+
+Developing applications that support company operations:
+
+- 📊 Dashboard & Analytics System
+- 💰 Transaction Management System
+- 👥 Customer Management System
+- 📦 Inventory Management System
+- 🏨 Reservation System
+- 📋 Internal Management Application
+- 🔐 User & Role Management System
+
+
+Development workflow:
+
+```text
+Business Requirement
+↓
+System Analysis
+↓
+Database Design
+↓
+Backend Development (Laravel)
+↓
+Frontend Development (Vue.js)
+↓
+API Integration
+↓
+Testing & Optimization
+↓
+Deployment
+```
 
 
 ---
@@ -179,272 +169,149 @@ Developing integrations between different systems using:
 ## Frontend
 
 <p align="left">
-<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img alt="Vue.js" title="Vue.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Next.js" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="Tailwind CSS" title="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img alt="Sass" title="Sass" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 </p>
+
+
+`Vue.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
 
 
 ## Backend
 
 <p align="left">
-<img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img alt="Laravel" title="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-<img alt="jQuery" title="jQuery" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </p>
 
 
-## AI & Automation
-
-<p align="left">
-<img alt="n8n" title="n8n" width="40" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
-<img alt="Claude" title="Claude" width="40" src="https://cdn.simpleicons.org/claude/D97757"/>
-</p>
-
-`n8n` · `Claude Code` · `AI Workflows` · `AI Agents` · `Workflow Automation` · `API Integration`
+`PHP` · `Laravel` · `REST API` · `MVC`
 
 
 ## Database & Tools
 
 <p align="left">
-<img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
-`MySQL` · `REST API` · `Webhooks` · `JSON` · `Git` · `GitHub`
+
+`MySQL` · `Git` · `GitHub` · `API Testing`
 
 
 ---
 
-# 🚀 Core Skills
+# 🚀 Professional Skills
 
-| Area | Focus |
-| --- | --- |
-| 💻 Full-Stack Development | Laravel, Vue.js, PHP, React, Next.js |
-| 🟥 Laravel & Vue.js | Backend + frontend integration |
-| ⚙️ Backend Engineering | API, business logic, database, authentication |
-| 🤖 AI Automation | AI workflows, AI agents, process automation |
-| ⚙️ Workflow Automation | n8n, Webhooks, API Integration |
-| 🧠 AI-Assisted Development | Claude Code, AI coding workflows |
-| 🔌 API Development | REST API, JSON, authentication |
-| 📊 Dashboard Development | Monitoring, analytics, reporting |
-| 🗄️ Database Development | Database design, CRUD, optimization |
-| 🎨 Frontend Development | Vue.js, React, Next.js |
-| 🔐 Application Security | Secure coding awareness |
-| 🧩 System Integration | APIs, third-party services |
+| Area | Skills |
+|---|---|
+| Full-Stack Development | Laravel + Vue.js |
+| Backend Engineering | API, Business Logic, Authentication |
+| Frontend Development | Vue.js Components & UI |
+| Database | MySQL Design & Optimization |
+| API Development | REST API & Integration |
+| Software Engineering | Clean Code & Maintainable Architecture |
+| Security | Authentication & Secure Development |
+| Business System | Dashboard & Management Application |
 
 
 ---
 
-# 📌 Areas of Interest
+# 🤖 Additional Skills
 
-- Fullstack Web Development
-- AI Automation Engineering
+Supporting technologies:
+
 - n8n Workflow Automation
-- AI Agents & Agentic Workflows
-- Claude Code & AI-Assisted Development
-- REST API Development
-- System Integration
-- Business Process Automation
-- Dashboard & Business Intelligence
-- Database Design & Optimization
-- Application Security
-- AI-Powered Applications
-- Digital Transformation
+- AI-assisted Development
+- Claude Code
+- AI Integration
+- Process Automation
 
 
 ---
 
-# 🏗️ Development Approach
+# 🏗️ Development Philosophy
 
-I believe effective software starts with understanding the **problem, users, business process, data, and technical requirements**.
-
-My development approach combines traditional software engineering with **AI-assisted development and workflow automation**.
-
+I believe great software is built by understanding:
 
 ```text
-Business Requirements
+Business Needs
 ↓
-Problem & Process Analysis
+User Requirements
 ↓
 System Architecture
 ↓
-Database & Data Design
+Clean Implementation
 ↓
-UI/UX & User Flow
-↓
-Full-Stack Development
-↓
-API & System Integration
-↓
-AI / Automation Integration
-↓
-Testing & Security
+Testing
 ↓
 Optimization
 ↓
-Deployment & Maintenance
+Deployment
 ```
 
-The goal is to create software that is:
+The focus is creating software that is:
 
-* 🚀 **Scalable**
-* ⚡ **Performant**
-* 🔐 **Secure**
-* 🧩 **Maintainable**
-* 🤖 **Automated**
-* 📊 **Data-driven**
-* 🎯 **Business-oriented**
+- 🚀 Scalable
+- ⚡ Efficient
+- 🔐 Secure
+- 🧩 Maintainable
+- 📊 Business-oriented
 
----
-
-## 🔄 Software + AI + Automation
-
-One of my main interests is combining traditional application development with automation and AI.
-
-```text
-       ┌─────────────────────┐
-       │ Business Problem    │
-       └──────────┬──────────┘
-                  ↓
-      ┌─────────────────────┐
-      │ Web Application     │
-      │ Laravel + Vue.js    │
-      └──────────┬──────────┘
-                 ↓
-      ┌─────────────────────┐
-      │ REST API            │
-      └──────────┬──────────┘
-                 ↓
-      ┌─────────────────────┐
-      │ n8n                 │
-      │ Workflow Automation │
-      └──────────┬──────────┘
-                 ↓
-      ┌─────────────────────┐
-      │ AI Processing       │
-      │ Claude / AI Models  │
-      └──────────┬──────────┘
-                 ↓
-      ┌─────────────────────┐
-      │ Automated Action    │
-      │ Data / Notification │
-      │ Report / Integration│
-      └─────────────────────┘
-```
-
-This approach allows applications to move beyond simply **storing and displaying data** toward systems that can **automate processes, connect services, assist users, and make workflows more efficient**.
 
 ---
 
-## 📈 Currently Exploring
-
-I'm continuously improving my skills in:
-
-* Advanced **Laravel & REST API Development**
-* Modern **React & Next.js**
-* **TypeScript** application architecture
-* **n8n workflow automation**
-* **AI agents & agentic workflows**
-* **Claude Code**
-* AI-powered business applications
-* Business process automation
-* API & system integration
-* Database optimization
-* Application security
-* Developer productivity
-
-### 🎯 2026 Focus
-
-> **Build software. Automate processes. Integrate AI. Ship practical solutions.**
-
-My current focus is building projects that combine:
-
-**Software Engineering + AI + Automation + Business Solutions**
-
 ---
 
-## 📂 Featured Projects
-
-My projects focus on practical applications and real-world business requirements, including:
-
-* 📊 **Business Monitoring & Analytics Dashboards**
-* 🏨 **Hotel Reservation & Customer Management Systems**
-* 💼 **Service & Transaction Management Applications**
-* 📦 **Inventory & Operational Management Systems**
-* 👥 **Customer & User Management Systems**
-* 🔌 **REST API & System Integration**
-* ⚙️ **n8n Automation Workflows**
-* 🤖 **AI-Powered Applications**
-* 🧠 **AI-Assisted Development Tools**
-* 🔐 **Authentication & Role-Based Access Systems**
-
-> Explore my repositories to see implementations, experiments, automation workflows, and production-oriented projects.
-
----
-
-## 💡 Development Philosophy
-
-> **"Build solutions, automate what can be automated, and use AI where it creates real value."**
-
-Good software is not simply about writing more code.
-
-It's about understanding the problem, choosing the right technology, reducing unnecessary complexity, and creating solutions that provide real value to users and businesses.
-
-I believe **AI should enhance engineering — not replace engineering judgment**.
-
-Every project is an opportunity to:
-
-* Learn something new
-* Solve a real problem
-* Improve engineering practices
-* Automate repetitive work
-* Build better systems
-* Deliver measurable value
-
----
-
-## 🤝 Let's Build Something
-
-I'm open to opportunities and collaborations involving:
-
-* 💻 Fullstack Web Development
-* 🤖 AI Automation Engineering
-* ⚙️ n8n Workflow Automation
-* 🧠 AI-powered applications
-* 🔌 API & System Integration
-* 📊 Dashboard & Business Applications
-* 🏢 Business Process Automation
-* 🚀 Digital Transformation
-* 🛠️ Developer Productivity Tools
-
-If you have a **business problem, technical challenge, or product idea**, I'm interested in turning it into a practical digital solution.
-
----
 <p align="center">
-  <strong>💻 Full-Stack Developer (Mid-Level)</strong>
-  &nbsp;|&nbsp;
-  <strong>🟥 Laravel & Vue.js Specialist</strong>
-  &nbsp;|&nbsp;
-  <strong>⚙️ Backend Engineer</strong>
-  &nbsp;|&nbsp;
-  <strong>🤖 AI Automation Engineer</strong>
+
+<strong>💻 Full-Stack Developer (Mid-Level)</strong>
+&nbsp;|&nbsp;
+<strong>🟥 Laravel & Vue.js Specialist</strong>
+&nbsp;|&nbsp;
+<strong>⚙️ Backend Engineer</strong>
+
 </p>
 
-<p align="center">
-  <strong>⚙️ n8n Expert</strong>
-  &nbsp;|&nbsp;
-  <strong>🧠 Claude Code</strong>
-</p>
 
 <p align="center">
-  <i>"Turning ideas, problems, and repetitive processes into reliable digital solutions."</i>
+
+<i>
+"Great software is not only about writing code,  
+but about understanding problems, creating solutions,  
+and building technology that brings real impact."
+</i>
+
+</p>
+
+
+<p align="center">
+
+🚀 Keep Learning • Keep Building • Keep Improving
+
+</p>
+
+
+<p align="center">
+
+My mission is to continuously grow as a software engineer,  
+build scalable digital solutions, and create applications  
+that help businesses become more efficient and successful.
+
+</p>
+
+
+<p align="center">
+
+<strong>
+💡 Turning ideas into solutions.  
+<br>
+⚙️ Turning problems into systems.  
+<br>
+🚀 Turning technology into business value.
+</strong>
+
 </p>
