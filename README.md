@@ -98,7 +98,7 @@ Typical use cases include:
 
 ---
 
-### ⚙️ n8n Workflow Automation
+## ⚙️ n8n Workflow Automation
 
 Building and integrating **n8n workflows** to connect applications, APIs, databases, AI models, and business processes.
 
@@ -120,145 +120,155 @@ API / Service Integration
 Database / Output
 ↓
 Notification / Action
+```
 
 ---
 
-### 🧠 Claude Code & AI-Assisted Development
+## 🧠 Claude Code & AI-Assisted Development
 
 Using **Claude Code** as part of the development workflow to improve productivity across:
 
-* Code generation
-* Code refactoring
-* Debugging
-* Testing
-* Documentation
-* Codebase analysis
-* Feature implementation
-* Development automation
-* Software architecture exploration
+- Code generation
+- Code refactoring
+- Debugging
+- Testing
+- Documentation
+- Codebase analysis
+- Feature implementation
+- Development automation
+- Software architecture exploration
 
 AI is used as a development accelerator while maintaining **engineering judgment, code quality, security, and maintainability**.
 
 ---
 
-### 📊 Dashboard & Business Applications
+## 📊 Dashboard & Business Applications
 
 Building business-oriented applications and dashboards for:
 
-* 📈 Productivity monitoring
-* 💰 Transaction management
-* 👥 Customer management
-* 🏨 Reservation management
-* 📦 Inventory management
-* 📊 Business reporting
-* ⚙️ Operational monitoring
-* 📋 Data management
-* 📌 Performance analytics
+- 📈 Productivity monitoring
+- 💰 Transaction management
+- 👥 Customer management
+- 🏨 Reservation management
+- 📦 Inventory management
+- 📊 Business reporting
+- ⚙️ Operational monitoring
+- 📋 Data management
+- 📌 Performance analytics
 
 ---
 
-### 🔌 API & System Integration
+## 🔌 API & System Integration
 
 Developing integrations between different systems using:
 
-* REST API
-* Webhooks
-* JSON
-* Authentication
-* Database integration
-* Third-party services
-* AI services
-* Automation platforms
+- REST API
+- Webhooks
+- JSON
+- Authentication
+- Database integration
+- Third-party services
+- AI services
+- Automation platforms
+
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
 <p align="left">
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Sass" title="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img alt="Vue.js" title="Vue.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Next.js" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="Tailwind CSS" title="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img alt="Sass" title="Sass" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 </p>
 
-### Backend
+
+## Backend
 
 <p align="left">
-  <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="Laravel" title="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-  <img alt="jQuery" title="jQuery" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img alt="Laravel" title="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img alt="jQuery" title="jQuery" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 </p>
 
-### AI & Automation
+
+## AI & Automation
 
 <p align="left">
-  <img alt="n8n" title="n8n" width="40px" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
-  <img alt="Claude" title="Claude" width="40px" src="https://cdn.simpleicons.org/claude/D97757"/>
+<img alt="n8n" title="n8n" width="40" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
+<img alt="Claude" title="Claude" width="40" src="https://cdn.simpleicons.org/claude/D97757"/>
 </p>
 
 `n8n` · `Claude Code` · `AI Workflows` · `AI Agents` · `Workflow Automation` · `API Integration`
 
-### Database & Tools
+
+## Database & Tools
 
 <p align="left">
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 `MySQL` · `REST API` · `Webhooks` · `JSON` · `Git` · `GitHub`
 
----
-
-## 🚀 Core Skills
-
-| Area                         | Focus                                              |
-| ---------------------------- | -------------------------------------------------- |
-| 💻 Full-Stack Development    | Laravel, Vue.js, PHP, React, Next.js               |
-| 🟥 Laravel & Vue.js          | Specialist-level backend + frontend integration    |
-| ⚙️ Backend Engineering       | API, business logic, database, authentication      |
-| 🤖 AI Automation             | AI workflows, AI agents, process automation        |
-| ⚙️ Workflow Automation       | n8n, Webhooks, API Integration                     |
-| 🧠 AI-Assisted Development   | Claude Code, AI coding workflows                   |
-| 🔌 API Development           | REST API, JSON, authentication, integrations       |
-| 📊 Dashboard Development     | Monitoring, analytics, reporting                   |
-| 🗄️ Database Development     | Database design, CRUD, optimization                |
-| 🎨 Frontend Development      | Vue.js, React, Next.js, JavaScript, TypeScript     |
-| 🔐 Application Security      | Secure coding, security awareness                  |
-| 🧩 System Integration        | APIs, third-party services, automation             |
 
 ---
 
-## 📌 Areas of Interest
+# 🚀 Core Skills
 
-* Fullstack Web Development
-* AI Automation Engineering
-* n8n Workflow Automation
-* AI Agents & Agentic Workflows
-* Claude Code & AI-Assisted Development
-* REST API Development
-* System Integration
-* Business Process Automation
-* Dashboard & Business Intelligence
-* Database Design & Optimization
-* Application Security
-* AI-Powered Applications
-* Digital Transformation
-* Developer Productivity
+| Area | Focus |
+| --- | --- |
+| 💻 Full-Stack Development | Laravel, Vue.js, PHP, React, Next.js |
+| 🟥 Laravel & Vue.js | Backend + frontend integration |
+| ⚙️ Backend Engineering | API, business logic, database, authentication |
+| 🤖 AI Automation | AI workflows, AI agents, process automation |
+| ⚙️ Workflow Automation | n8n, Webhooks, API Integration |
+| 🧠 AI-Assisted Development | Claude Code, AI coding workflows |
+| 🔌 API Development | REST API, JSON, authentication |
+| 📊 Dashboard Development | Monitoring, analytics, reporting |
+| 🗄️ Database Development | Database design, CRUD, optimization |
+| 🎨 Frontend Development | Vue.js, React, Next.js |
+| 🔐 Application Security | Secure coding awareness |
+| 🧩 System Integration | APIs, third-party services |
+
 
 ---
 
-## 🏗️ Development Approach
+# 📌 Areas of Interest
+
+- Fullstack Web Development
+- AI Automation Engineering
+- n8n Workflow Automation
+- AI Agents & Agentic Workflows
+- Claude Code & AI-Assisted Development
+- REST API Development
+- System Integration
+- Business Process Automation
+- Dashboard & Business Intelligence
+- Database Design & Optimization
+- Application Security
+- AI-Powered Applications
+- Digital Transformation
+
+
+---
+
+# 🏗️ Development Approach
 
 I believe effective software starts with understanding the **problem, users, business process, data, and technical requirements**.
 
 My development approach combines traditional software engineering with **AI-assisted development and workflow automation**.
+
 
 ```text
 Business Requirements
@@ -271,7 +281,7 @@ Database & Data Design
 ↓
 UI/UX & User Flow
 ↓
-Full-Stack Development (Laravel + Vue.js)
+Full-Stack Development
 ↓
 API & System Integration
 ↓
