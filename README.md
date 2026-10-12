@@ -1,23 +1,25 @@
-# 👩🏻‍💻 Rahm — Fullstack Developer | AI Automation Engineer
+# 👩🏻‍💻 Rahm — Full-Stack Developer (Mid-Level) | Laravel & Vue.js Specialist | Backend Engineer | AI Automation Engineer
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Fullstack+Developer;AI+Automation+Engineer;n8n+Expert;Claude+Code+Developer;Laravel+%7C+React+%7C+Next.js;Building+AI-Powered+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Full-Stack+Developer+(Mid-Level);Laravel+%26+Vue.js+Specialist;Backend+Engineer;AI+Automation+Engineer;n8n+Expert;Claude+Code+Developer;Laravel+%7C+Vue.js+%7C+React+%7C+Next.js;Building+AI-Powered+Digital+Solutions" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=flat" />
-  <img src="https://img.shields.io/badge/AI-Automation%20Engineer-purple?style=flat" />
-  <img src="https://img.shields.io/badge/n8n-Expert-orange?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-Code-black?style=flat" />
-  <img src="https://img.shields.io/badge/Laravel-Backend-red?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20%7C%20Next.js-Frontend-black?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Full-Stack-Developer%20(Mid--Level)-blue?style=flat" />
+<img src="https://img.shields.io/badge/Laravel%20%26%20Vue.js-Specialist-red?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Engineer-green?style=flat" />
+<img src="https://img.shields.io/badge/AI-Automation%20Engineer-purple?style=flat" />
+<img src="https://img.shields.io/badge/n8n-Expert-orange?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-Code-black?style=flat" />
+<img src="https://img.shields.io/badge/Vue.js-Frontend-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20%7C%20Next.js-Frontend-black?style=flat&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Rahm**, a **Fullstack Developer & AI Automation Engineer** with a background in **Informatics Engineering**.
+I'm **Rahm**, a **Full-Stack Developer (Mid-Level)**, **Laravel & Vue.js Specialist**, and **Backend Engineer** with additional expertise as an **AI Automation Engineer**. I have a background in **Informatics Engineering**.
 
 I build **modern web applications, AI-powered solutions, and business automation workflows** by combining software engineering, system integration, automation, and artificial intelligence.
 
@@ -25,7 +27,9 @@ My focus is not only on writing code, but on transforming **business requirement
 
 ### 🚀 Core Expertise
 
-* 💻 **Fullstack Development** — Building modern web applications with Laravel, React, Next.js, JavaScript, and TypeScript
+* 💻 **Full-Stack Development** — Building modern web applications with Laravel, Vue.js, React, Next.js, JavaScript, and TypeScript
+* 🟥 **Laravel & Vue.js Specialist** — Deep expertise in Laravel backend development and Vue.js frontend interfaces
+* ⚙️ **Backend Engineering** — Designing robust APIs, business logic, authentication, and database systems
 * 🤖 **AI Automation Engineering** — Designing AI-powered workflows and automating repetitive business processes
 * ⚙️ **n8n Automation** — Building workflow automation, API integrations, webhooks, data processing, and AI workflows
 * 🧠 **Claude Code** — Using AI-assisted development for coding, debugging, refactoring, testing, and productivity
@@ -38,13 +42,41 @@ My focus is not only on writing code, but on transforming **business requirement
 
 ## 💼 What I Do
 
-### 🌐 Fullstack Web Development
+### 🌐 Full-Stack Web Development
 
 Developing end-to-end web applications, from responsive frontend interfaces to backend services, APIs, databases, authentication, and business logic.
 
 **Technologies:**
 
-`Laravel` · `PHP` · `React` · `Next.js` · `JavaScript` · `TypeScript`
+`Laravel` · `PHP` · `Vue.js` · `React` · `Next.js` · `JavaScript` · `TypeScript`
+
+---
+
+### 🟥 Laravel & Vue.js Specialist
+
+Specializing in building scalable applications using **Laravel** for the backend and **Vue.js** for the frontend.
+
+* Clean architecture & modular design
+* RESTful API development
+* Authentication & authorization (Sanctum / Passport)
+* Eloquent ORM & advanced queries
+* Vue.js component-based UI
+* State management & reactive interfaces
+* Seamless Laravel + Vue.js integration
+
+---
+
+### ⚙️ Backend Engineering
+
+Focusing on solid backend systems:
+
+* API design & development
+* Business logic implementation
+* Database design & optimization
+* Authentication & role-based access
+* Queue jobs & background processing
+* Caching strategies
+* Security best practices
 
 ---
 
@@ -74,21 +106,20 @@ My automation workflow typically involves:
 
 ```text
 Trigger
-   ↓
+↓
 Data Collection
-   ↓
+↓
 Data Processing
-   ↓
+↓
 Business Logic
-   ↓
+↓
 AI Processing
-   ↓
+↓
 API / Service Integration
-   ↓
+↓
 Database / Output
-   ↓
+↓
 Notification / Action
-```
 
 ---
 
@@ -187,18 +218,20 @@ Developing integrations between different systems using:
 
 ## 🚀 Core Skills
 
-| Area                       | Focus                                        |
-| -------------------------- | -------------------------------------------- |
-| 💻 Fullstack Development   | Laravel, PHP, React, Next.js                 |
-| 🤖 AI Automation           | AI workflows, AI agents, process automation  |
-| ⚙️ Workflow Automation     | n8n, Webhooks, API Integration               |
-| 🧠 AI-Assisted Development | Claude Code, AI coding workflows             |
-| 🔌 API Development         | REST API, JSON, authentication, integrations |
-| 📊 Dashboard Development   | Monitoring, analytics, reporting             |
-| 🗄️ Database Development   | Database design, CRUD, optimization          |
-| 🎨 Frontend Development    | React, Next.js, JavaScript, TypeScript       |
-| 🔐 Application Security    | Secure coding, security awareness            |
-| 🧩 System Integration      | APIs, third-party services, automation       |
+| Area                         | Focus                                              |
+| ---------------------------- | -------------------------------------------------- |
+| 💻 Full-Stack Development    | Laravel, Vue.js, PHP, React, Next.js               |
+| 🟥 Laravel & Vue.js          | Specialist-level backend + frontend integration    |
+| ⚙️ Backend Engineering       | API, business logic, database, authentication      |
+| 🤖 AI Automation             | AI workflows, AI agents, process automation        |
+| ⚙️ Workflow Automation       | n8n, Webhooks, API Integration                     |
+| 🧠 AI-Assisted Development   | Claude Code, AI coding workflows                   |
+| 🔌 API Development           | REST API, JSON, authentication, integrations       |
+| 📊 Dashboard Development     | Monitoring, analytics, reporting                   |
+| 🗄️ Database Development     | Database design, CRUD, optimization                |
+| 🎨 Frontend Development      | Vue.js, React, Next.js, JavaScript, TypeScript     |
+| 🔐 Application Security      | Secure coding, security awareness                  |
+| 🧩 System Integration        | APIs, third-party services, automation             |
 
 ---
 
@@ -229,25 +262,25 @@ My development approach combines traditional software engineering with **AI-assi
 
 ```text
 Business Requirements
-        ↓
+↓
 Problem & Process Analysis
-        ↓
+↓
 System Architecture
-        ↓
+↓
 Database & Data Design
-        ↓
+↓
 UI/UX & User Flow
-        ↓
-Fullstack Development
-        ↓
+↓
+Full-Stack Development (Laravel + Vue.js)
+↓
 API & System Integration
-        ↓
+↓
 AI / Automation Integration
-        ↓
+↓
 Testing & Security
-        ↓
+↓
 Optimization
-        ↓
+↓
 Deployment & Maintenance
 ```
 
@@ -268,34 +301,34 @@ The goal is to create software that is:
 One of my main interests is combining traditional application development with automation and AI.
 
 ```text
-                ┌─────────────────────┐
-                │   Business Problem  │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │   Web Application   │
-                │ Laravel / React     │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     REST API        │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │        n8n          │
-                │ Workflow Automation │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │    AI Processing    │
-                │ Claude / AI Models  │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │ Automated Action    │
-                │ Data / Notification │
-                │ Report / Integration│
-                └─────────────────────┘
+       ┌─────────────────────┐
+       │ Business Problem    │
+       └──────────┬──────────┘
+                  ↓
+      ┌─────────────────────┐
+      │ Web Application     │
+      │ Laravel + Vue.js    │
+      └──────────┬──────────┘
+                 ↓
+      ┌─────────────────────┐
+      │ REST API            │
+      └──────────┬──────────┘
+                 ↓
+      ┌─────────────────────┐
+      │ n8n                 │
+      │ Workflow Automation │
+      └──────────┬──────────┘
+                 ↓
+      ┌─────────────────────┐
+      │ AI Processing       │
+      │ Claude / AI Models  │
+      └──────────┬──────────┘
+                 ↓
+      ┌─────────────────────┐
+      │ Automated Action    │
+      │ Data / Notification │
+      │ Report / Integration│
+      └─────────────────────┘
 ```
 
 This approach allows applications to move beyond simply **storing and displaying data** toward systems that can **automate processes, connect services, assist users, and make workflows more efficient**.
@@ -386,12 +419,17 @@ I'm open to opportunities and collaborations involving:
 If you have a **business problem, technical challenge, or product idea**, I'm interested in turning it into a practical digital solution.
 
 ---
-
 <p align="center">
-  <strong>💻 Fullstack Developer</strong>
+  <strong>💻 Full-Stack Developer (Mid-Level)</strong>
+  &nbsp;|&nbsp;
+  <strong>🟥 Laravel & Vue.js Specialist</strong>
+  &nbsp;|&nbsp;
+  <strong>⚙️ Backend Engineer</strong>
   &nbsp;|&nbsp;
   <strong>🤖 AI Automation Engineer</strong>
-  &nbsp;|&nbsp;
+</p>
+
+<p align="center">
   <strong>⚙️ n8n Expert</strong>
   &nbsp;|&nbsp;
   <strong>🧠 Claude Code</strong>
