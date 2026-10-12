@@ -166,42 +166,77 @@ Deployment
 
 # 🛠️ Tech Stack
 
-## Frontend
-
-<p align="left">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-</p>
+# 🛠️ Tech Stack
 
 
-`Vue.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
-
-
-## Backend
+## 🟥 Backend
 
 <p align="left">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 
+`PHP 8+` · `Laravel` · `Node.js` · `REST API` · `MVC Architecture` · `OOP`  
+`Authentication` · `RBAC` · `Backend Architecture`
 
-`PHP` · `Laravel` · `REST API` · `MVC`
+
+---
+
+## 🎨 Frontend
+
+<p align="left">
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
+
+`Vue.js` · `React.js` · `JavaScript ES6+` · `TypeScript`  
+`Tailwind CSS` · `HTML5` · `CSS3`
 
 
-## Database & Tools
+---
+
+## 🗄️ Database
 
 <p align="left">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
+
+`MySQL` · `PostgreSQL` · `Database Design`  
+`SQL Optimization` · `Data Migration`
+
+
+---
+
+## ⚙️ Engineering Tools
+
+<p align="left">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
+`Git` · `Docker` · `CI/CD` · `Linux Server`  
+`Postman` · `Deployment` · `Server Management`
 
-`MySQL` · `Git` · `GitHub` · `API Testing`
 
+---
 
+## 🎨 Design & Product
+
+<p align="left">
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</p>
+
+`Figma` · `UI/UX Design` · `Wireframing`  
+`User Flow` · `Usability Testing`
 ---
 
 # 🚀 Professional Skills
